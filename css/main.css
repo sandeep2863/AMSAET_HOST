@@ -1,0 +1,18 @@
+html,body{overflow-x:hidden;max-width:100%;font-family:'Bree Serif', serif !important;padding:0;}
+a,p{font-family:'Bree Serif', serif;font-size:15px;line-height:1.66667;padding:0;}
+.justify{text-align:justify;}
+.bold{font-weight:bold;}
+.normal{font-weight:normal;}
+a{cursor:pointer;color:green;}
+h3{font-weight:700;font-size:20px;letter-spacing:0;line-height:1.5;margin:0 0 15px;}
+div{margin:10px;}
+#column{text-align:center;margin:0px;padding-top:30px;padding-left:50px;padding-right:50px;}
+#block{color:#800000 !important;}
+.modal-body p{color:black;}
+#banner{padding:2%;margin:4% 12% 4% 12%;height:15%;background-color:#002863;text-align:center;color:white;font-weight:bold;font-size:40px;}
+#reg_button{background-color:#daa600;width:45%;}
+#sponsors{text-align:center;background-color:white;margin-left:0;margin-right:0;}
+#about{padding-left:7%;padding-right:7%;}
+#footer{background:linear-gradient(#141E30,#243B55);padding:1% 5% 2% 5%;margin:0;color:white;}
+#footer .row p{font-family:'Slabo 27px', serif;}
+hr{border-top:1px solid #8c8b8b;}
